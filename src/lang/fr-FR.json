@@ -1,0 +1,29 @@
+{
+	"side-menu": {
+		"Home": "Accueil",
+		"Login": "Login",
+		"Dashboard": "Tableau de bord",
+		"Orders": "Commandes",
+		"Customers": "Utilisateurs",
+		"Products": "Produits",
+		"Containers": "Containers",
+		"ContainersList": "Liste des Containers",
+		"About": "A Propos",
+		"ErrorPage": "404",
+		"ChangePassword": "Changer le mot de Passe"
+	},
+	"daterange": {
+		"today": "Aujourd'hui",
+		"next-7-days": "7 prochains jours",
+		"next-30-days": "30 prochains jours",
+		"current-month": "Mois en cours",
+		"current-year": "Année en cours"
+	},
+	"containersList": {
+		"Container": "Containers"
+	},
+	"home": {
+		"state-of-health": "State Of Health"
+	},
+	"hello": "Bonjour !"
+}

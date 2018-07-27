@@ -1,0 +1,26 @@
+{
+	"side-menu": {
+		"Home": "Home",
+		"Login": "Login",
+		"Dashboard": "Dashboard",
+		"Orders": "Orders",
+		"Customers": "Customers",
+		"Products": "Products",
+		"Containers": "Containers",
+		"ContainersList": "List of Containers",
+		"About": "About",
+		"ErrorPage": "404",
+		"ChangePassword": "Change Password"
+	},
+	"daterange": {
+		"today": "Today",
+		"next-7-days": "Next 7 days",
+		"next-30-days": "Next 30 days",
+		"current-month": "Current month",
+		"current-year": "Current year"
+	},
+	"containersList": {
+		"Container": "Containers"
+	},
+	"hello": "Hello World !"
+}
